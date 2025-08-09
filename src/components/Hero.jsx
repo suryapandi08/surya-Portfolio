@@ -24,14 +24,23 @@ const Hero = () => {
           </p>
           <br/>
                  <div className="flex justify-center">
-  <a
-    href="https://drive.google.com/file/d/1I4cWS46PgZa9RrTH4RKCNA9Nx2qfuYV2/view?usp=drivesdk"
+  {/* <a
+    href="https://drive.google.com/file/d/1I4cWS46PgZa9RrTH4RKCNA9Nx2qfuYV2/view?usp=sharing"
     target="_blank"
     rel="noopener noreferrer"
     className=" bg-[#915EFF] text-white px-4 py-2 rounded-lg hover:bg-blue-600  "
   >
      Resume
-  </a>
+</a> */}
+<a     
+              href="https://drive.google.com/file/d/1I4cWS46PgZa9RrTH4RKCNA9Nx2qfuYV2/view?usp=sharing"     
+              target="_blank"     
+              rel="noopener noreferrer"     
+              className="bg-[#915EFF] text-white px-4 py-2 rounded-lg hover:bg-blue-600 relative z-20 cursor-pointer"   
+            >      
+              Resume   
+            </a> 
+            
 </div>
 
         </div>
