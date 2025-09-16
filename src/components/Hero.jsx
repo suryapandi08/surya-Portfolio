@@ -33,7 +33,7 @@ const Hero = () => {
      Resume
 </a> */}
 <a     
-              href="https://drive.google.com/file/d/1IPWFC0CoTh_R1Qf092Q_39MWvXfIwqoa/view?usp=sharing"     
+              href="https://drive.google.com/file/d/1RpKNzmuVxcnEW4LrtZ24hM5kto8Fri08/view?usp=sharing"     
               target="_blank"     
               rel="noopener noreferrer"     
               className="bg-[#915EFF] text-white px-4 py-2 rounded-lg hover:bg-blue-600 relative z-20 cursor-pointer"   
